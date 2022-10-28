@@ -1,6 +1,8 @@
 # OpenCV Sudoku Solver
 
-A python script to solve sudoku puzzles using OpenCV. The script uses a CNN model to detect the cells from the sudoku puzzle and then uses ```Peter Norvig's``` sudoku solving algorithm [(Solving Every Sudoku Puzzle)](https://norvig.com/sudoku.html)
+Dockerized the python application that can solve sudoku puzzles using OpenCV. The application uses a CNN model to detect the cells from the sudoku puzzle and then uses ```Peter Norvig's``` sudoku solving algorithm - [(Solving Every Sudoku Puzzle)](https://norvig.com/sudoku.html)
+
+Project URL: https://github.com/tbrk1608/OpenCV-Sudoku-Solver-Flask-app
 
 ## How to use ?
 
